@@ -1,6 +1,6 @@
 const CONFIG = {
   github: {
-    username: 'waheebedrees', // <-- Updated to your GitHub username
+    username: 'Hussin123-h', // <-- Updated to your GitHub username
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/waheebedrees/waheebedrees.github.io, set base to '/'.
@@ -23,10 +23,7 @@ const CONFIG = {
       },
       manual: {
         projects: [
-          'waheebedrees/agentic',
-          'waheebedrees/myblog',
-          'waheebedrees/Blog',
-          
+          'Hussin123-h/langchain',
         ], // Example: your top repos, add/remove as desired
       },
     },
@@ -39,8 +36,8 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Waheeb Edrees',
-    description: 'Showcase of Waheeb Edrees\'s open source projects, blogs, and skills.',
+    title: 'Portfolio of Hussin Noman',
+    description: 'Showcase ofHussin Noman\'s open source projects, blogs, and skills.',
     imageURL: '',
   },
   social: {
@@ -61,9 +58,9 @@ const CONFIG = {
     stackoverflow: '',
     skype: '',
     telegram: '',
-    website: 'https://waheebedrees.pythonanywhere.com', // Add your website if available
+    website: '', // Add your website if available
     phone: '',
-    email: 'ewaheeb02@gmail.com', // Add your email if you want to display it
+    email: 'hussinnoman2004@gmail.com', // Add your email if you want to display it
   },
   resume: {
     fileUrl: '', // Add your resume link if available
@@ -91,8 +88,8 @@ const CONFIG = {
     // Fill in with your publications if any
   ],
   blog: {
-    source: 'https://waheebedrees.pythonanywhere.com', // medium | dev, add one if you have blog articles
-    username: 'waheebedrees', // your username on the blog platform
+    source: '', // medium | dev, add one if you have blog articles
+    username: 'Hussin', // your username on the blog platform
     limit: 2,
   },
   googleAnalytics: {
